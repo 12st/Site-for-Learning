@@ -1,1 +1,1 @@
-dist
+Site created for learning js
